@@ -1,2 +1,3 @@
-print("sadik kits ece");
-
+n=input()
+print(n)
+print("sadik kits ece")
