@@ -33,4 +33,10 @@ block codes
  `python
  print("hello")```
 
-
+### task insert a code of hello in c
+`#include<stdio.h>
+int main();
+{
+printf ("hello world");
+}
+```
