@@ -1,0 +1,12 @@
+# day 2-work markdown
+## heading 2
+## heading 3
+## bold text
+**ece**
+_ece_
+### italic text
+*ece*
+_ece_
+## bold and italic
+**_ece_**
+_ece_
