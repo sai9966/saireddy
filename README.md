@@ -27,3 +27,10 @@ block codes
 >>> dr6t7yuhi
 >>>> drfguhisa
 >>>>> rtyuhjg
+
+
+### code
+ `python
+ print("hello")
+
+
