@@ -40,3 +40,11 @@ int main();
 printf ("hello world");
 }
 return 0;
+
+### task insret a code of hello in c
+### inserting urls
+[markdown sheet](https://www.markdownguide.org/cheat-sheet/)
+- college web site link
+[](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.jagranjosh.com%2Finstitutes-colleges%2Fkrishna-chaitanya-institute-of-technology-and-sciences-kcits-markapur)
+- gmail link (https://www.google.com/)
+- git official site url(https://github.com)
