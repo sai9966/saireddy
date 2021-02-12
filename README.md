@@ -52,4 +52,4 @@ return 0;
 ## inserting vedios
 [![vedio](https://img.youtube.com/vi/44ZIHUIybM8/0.jpg)](https://www.youtube.com/watch?v=44ZIHUIybM8)
 ## inserting vedios
-[![https://img.youtube.com/vi/6u_WtpyOGmw/0.jpg)](https://www.youtube.com/watch?v=6u_WtpyOGmw)
+[![vedio](https://img.youtube.com/vi/6u_WtpyOGmw/0.jpg)](https://www.youtube.com/watch?v=6u_WtpyOGmw)
