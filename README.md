@@ -50,4 +50,4 @@ return 0;
 - git official site url(https://github.com)
 
 ## inserting vedios
-[![vedio]()](https://www.youtube.com/watch?v=44ZIHUIybM8)
+[![vedio](https://img.youtube.com/watch?v=44ZIHUIybM8)]
